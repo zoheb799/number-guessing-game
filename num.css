@@ -1,0 +1,30 @@
+body {
+    background-color: cornflowerblue;
+}
+.container {
+    background-color:darkblue;
+    border-top: 5px solid white;
+    display: block;
+    margin: auto;
+    text-align: center;
+    height: 275px;
+    width: 750px;
+    
+}
+h1 {
+    text-align: center;
+}
+p {
+    font-size:25px;
+    color:white;
+}
+input {
+    width: 100px;
+    margin: 25px auto;
+}
+button {
+    margin:25px auto auto 5px;
+    color:white;
+    background-color:blue
+    
+}
